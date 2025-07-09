@@ -30,8 +30,10 @@ class WeatherApp {
         this.updateDateTime();
         setInterval(() => this.updateDateTime(), 1000);
         
-        // Load weather for a default city (London) on startup
-        this.getWeatherByCity('London');
+        // Do NOT load any city by default
+        this.weatherInfo.classList.remove('active');
+        this.loading.classList.remove('active');
+        this.error.classList.remove('active');
     }
     
     bindEvents() {
