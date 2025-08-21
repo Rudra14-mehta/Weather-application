@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Weather-application
 🌤️ A responsive weather app with real-time data & 5-day forecast.
 
