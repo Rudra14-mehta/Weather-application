@@ -1,7 +1,6 @@
 <<<<<<< HEAD
 # Weather-application
-=======
-# Weather Application
+🌤️ A responsive weather app with real-time data & 5-day forecast.
 
 A beautiful, responsive weather application built with HTML, CSS, and JavaScript that fetches live weather data from the Open-Meteo API.
 
